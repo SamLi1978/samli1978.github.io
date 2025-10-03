@@ -2,6 +2,8 @@
 layout: post
 title: Deep Dive into Version Check for Graphics Drivers on Windows
 date: 2025-05-04 13:06 -0400
+categories: [DisableVersionMismatchCheck]
+tags: [Reverse Engineering]
 ---
 
 
