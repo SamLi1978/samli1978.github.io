@@ -14,15 +14,16 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sam Li &#x1f1e8;&#x1f1e6; # the main title
+title: Sam Li 🇨🇦 # the main title
 
 tagline: Software Engineer / Developer<br>
          
          <br> 
          
+         
+         Windows Kernel / Security<br>
          Reverse Engineering<br>
-         Windows Security Research<br>
-         Windows Kernel-related Dev<br>
+         
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
